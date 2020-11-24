@@ -1,0 +1,13 @@
+C:\Users\REI DELAS\Desktop\Estrutura-de-Repetição\Ex1\bin\Debug\netcoreapp3.1\Ex1.exe
+C:\Users\REI DELAS\Desktop\Estrutura-de-Repetição\Ex1\bin\Debug\netcoreapp3.1\Ex1.deps.json
+C:\Users\REI DELAS\Desktop\Estrutura-de-Repetição\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.json
+C:\Users\REI DELAS\Desktop\Estrutura-de-Repetição\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.dev.json
+C:\Users\REI DELAS\Desktop\Estrutura-de-Repetição\Ex1\bin\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\REI DELAS\Desktop\Estrutura-de-Repetição\Ex1\bin\Debug\netcoreapp3.1\Ex1.pdb
+C:\Users\REI DELAS\Desktop\Estrutura-de-Repetição\Ex1\obj\Debug\netcoreapp3.1\Ex1.csprojAssemblyReference.cache
+C:\Users\REI DELAS\Desktop\Estrutura-de-Repetição\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfoInputs.cache
+C:\Users\REI DELAS\Desktop\Estrutura-de-Repetição\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfo.cs
+C:\Users\REI DELAS\Desktop\Estrutura-de-Repetição\Ex1\obj\Debug\netcoreapp3.1\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\REI DELAS\Desktop\Estrutura-de-Repetição\Ex1\obj\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\REI DELAS\Desktop\Estrutura-de-Repetição\Ex1\obj\Debug\netcoreapp3.1\Ex1.pdb
+C:\Users\REI DELAS\Desktop\Estrutura-de-Repetição\Ex1\obj\Debug\netcoreapp3.1\Ex1.genruntimeconfig.cache
